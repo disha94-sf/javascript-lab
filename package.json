@@ -1,0 +1,16 @@
+{
+  "name": "javascript-lab",
+  "version": "0.1.0",
+  "description": "Well-tested, zero-dependency JavaScript utilities, plus a log of open-source contributions.",
+  "type": "module",
+  "exports": "./src/index.js",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "test": "node --test \"test/**/*.test.js\""
+  },
+  "keywords": ["javascript", "utilities", "open-source"],
+  "author": "disha94-sf",
+  "license": "MIT"
+}
