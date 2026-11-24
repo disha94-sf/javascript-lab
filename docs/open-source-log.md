@@ -4,7 +4,7 @@ Every pull request I open on another JavaScript project goes here, merged or not
 
 | Date | Project | Pull request | Type | Status |
 | --- | --- | --- | --- | --- |
-| _coming soon_ | | | | |
+| 2026-11-24 | [forcedotcom/git2gus](https://github.com/forcedotcom/git2gus) | [#198: replace console calls with the Winston logger](https://github.com/forcedotcom/git2gus/pull/198) (fixes [#157](https://github.com/forcedotcom/git2gus/issues/157)) | bug fix | open |
 
 **Type** is one of: `bug fix`, `feature`, `docs`, `tests`, `typo`.
 **Status** is one of: `open`, `merged`, `closed`.
